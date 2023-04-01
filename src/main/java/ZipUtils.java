@@ -1,5 +1,3 @@
-package java;
-
 import com.google.common.collect.Lists;
 import net.lingala.zip4j.ZipFile;
 import net.lingala.zip4j.model.AbstractFileHeader;
